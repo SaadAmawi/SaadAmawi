@@ -5,8 +5,9 @@
 <br>
 <br>
 <br>
-<h3 align="center" style="padding-top: 20px;">Passionate software engineer with a knack for turning innovative ideas into efficient code. Dedicated to continuous learning and collaborative problem-solving in the world of technology.</h3>
 
+<h3 align="left" style="padding-top: 20px;">Passionate software engineer with a knack for turning innovative ideas into efficient code. Dedicated to continuous learning and collaborative problem-solving in the world of technology.</h3>
+<br>
 <h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saad-amawi-854bb626a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-amawi-854bb626a" height="30" width="40" /></a>
