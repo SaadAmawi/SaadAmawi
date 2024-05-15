@@ -1,7 +1,10 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hello I'm Saad 👋</h1>
 
-
+<img align="right" width="300" src="[https://phillipkolale.github.io/apluswebsiteandgraphicsdevelopers/images/coding-removebg-preview.png](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1715731200&semt=ais_user)">
+<br>
+<br>
+<br>
 
 <h3 align="left" style="padding-top: 20px;">Passionate software engineer with a knack for turning innovative ideas into efficient code. Dedicated to continuous learning and collaborative problem-solving in the world of technology.</h3>
 <br>
