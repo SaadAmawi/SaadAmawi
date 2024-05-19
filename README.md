@@ -44,8 +44,12 @@
 </p>
 
 <h1></h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadamawi&show_icons=true&locale=en&layout=compact" alt="saadamawi" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadamawi&" alt="saadamawi" /></p>
+<p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadamawi&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="saadamawi" /></p>
 
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadamawi&show_icons=true&locale=en&layout=compact" alt="saadamawi" /> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadamawi&theme=dark" alt="saadamawi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadamawi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="saadamawi" /></p>
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadamawi&label=Profile%20views&color=0e75b6&style=flat" alt="saadamawi" /> </p>
