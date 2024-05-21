@@ -51,4 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadamawi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="saadamawi" /></p>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadamawi&label=Profile%20views&color=0e75b6&style=flat" alt="saadamawi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadamawi&label=Profile%20views&color=0e75b6&style=flat" alt="saadamawi" />   </p>
